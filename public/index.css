@@ -1,0 +1,25 @@
+body {
+	text-align: center;
+	font-size: 25px;
+	font-family: 'Inconsolata', monospace;
+}
+#submit {
+	padding: 7px 5px;
+	background-color: #81D2C7;
+	cursor: pointer;
+	margin-left: 10px;
+	border-radius: 20px;
+	outline: none;
+}
+#submit:hover {
+	background-color: #ffffff;
+}
+#submit:focus {
+	background-color: #81D2C7;
+}
+#message-area {
+	background-color: #E0E0E2;
+}
+input {
+	height: 30px;
+}
